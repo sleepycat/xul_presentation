@@ -1,0 +1,22 @@
+div {
+  border-radius:10px;
+  background-color:#999;
+  text-align:center;
+}
+
+h4 {
+  display:inline-block;
+  width:9em;
+  color:#fff
+}
+
+math {
+  font-size:6em;
+  color:#fff;
+  display:inline
+}
+
+polygon {
+  fill:#fff;
+}
+
